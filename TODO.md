@@ -1,4 +1,5 @@
 Learning:
+[]wasm
 []learnyounode
 []@workshoppers/scope-chains-closures -g scope-chains-closures
 []how-to-npm
